@@ -4,6 +4,7 @@
   height: 250px;
   text-align: center;
   font-weight: bold;
+  overflow-x: scroll hidden;
   font-size: 1.2rem;
 }
 
